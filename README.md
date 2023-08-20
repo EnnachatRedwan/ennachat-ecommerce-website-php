@@ -1,3 +1,3 @@
 # ennachat-ecommerce-website-php
 
-demo: http://www.ennachat-shop.ml/
+demo: http://gloomy-fund.000webhostapp.com
